@@ -1,0 +1,158 @@
+,index,Product ID,Product,Category,Class,Class Description
+0,0,1FC,Caramel latte,Hot - Flavored ,B,Coffee drinks & milkshakes
+1,1,3MC,Mocha latte,Hot - Flavored ,B,Coffee drinks & milkshakes
+2,3,4UC,Chocolate latte,Hot - Flavored ,B,Coffee drinks & milkshakes
+3,5,8MT,Green tea and tonka latte,Hot - Flavored ,B,Coffee drinks & milkshakes
+4,7,7MVT,Green tea and vanilla latte,Hot - Flavored ,B,Coffee drinks & milkshakes
+5,13,9CL,Tonka latte,Hot - Flavored ,B,Coffee drinks & milkshakes
+6,23,2VLT,Vanilla latte,Hot - Flavored ,B,Coffee drinks & milkshakes
+7,16816,1HDV60,V60,Methods ,K,Promoted sales
+8,16817,8EXPA,Manual espresso,Methods ,K,Promoted sales
+9,16826,1CDV60M,V60 + milk,Methods ,K,Promoted sales
+10,16827,1HDCMX,Chemex,Methods ,K,Promoted sales
+11,16838,1CDV60,V60 (cold drip),Methods ,K,Promoted sales
+12,16948,1CCW,Chemex,Methods ,K,Promoted sales
+13,16955,2DCC,Cold drip,Methods ,K,Promoted sales
+14,16956,1DCH,Drip coffee,Methods ,K,Promoted sales
+15,16957,1PB,Double espresso,Hot - Purist ,B,Coffee drinks & milkshakes
+16,16958,2AM,Americano,Hot - Purist ,B,Coffee drinks & milkshakes
+17,16961,5MC,Green tea latte,Hot - Purist ,B,Coffee drinks & milkshakes
+18,16963,4TW,Coffee latte,Hot - Purist ,B,Coffee drinks & milkshakes
+19,16965,6CM,Masala chai latte,Hot - Purist ,B,Coffee drinks & milkshakes
+20,17892,1PBDRG,Double espresso with almond flavor,Hot - Purist ,B,Coffee drinks & milkshakes
+21,33893,5IL,Iced coffee latte,Cold - Purist ,B,Coffee drinks & milkshakes
+22,33895,6ICB,Iced coffee,Cold - Purist ,B,Coffee drinks & milkshakes
+23,33896,4MIL,Green tea latte (iced),Cold - Purist ,B,Coffee drinks & milkshakes
+24,33919,1ICHAI,Masala chai latte (iced),Cold - Purist ,B,Coffee drinks & milkshakes
+25,38140,MSCR, More Caramel (hot),Personalization ,P,Personalization
+26,38141,LVG, Oatmilk,Personalization ,P,Personalization
+27,38142,MSGC, More Ginger (Chai),Personalization ,P,Personalization
+28,38143,MCHAI, More Chai (40ml),Personalization ,P,Personalization
+29,38144,CKMC, Macadamia (Cookie),Personalization ,P,Personalization
+30,38145,MCOFF, More Coffee (40ml),Personalization ,P,Personalization
+31,38146,MSCR+, More Salted Caramel (cold),Personalization ,P,Personalization
+32,38148,1PE, Lactose free,Personalization ,P,Personalization
+33,38151,MPRB, With coffee (Chocold Mint),Personalization ,P,Personalization
+34,38153,MSVL+, More Vanilla (20ml),Personalization ,P,Personalization
+35,38161,MPRBP, More Coffee (40ml) (Pure Back),Personalization ,P,Personalization
+36,38164,MMAT, More Green Tea (40ml),Personalization ,P,Personalization
+37,38183,MSGG, More Gengibre (Coffee with ginger flavor),Personalization ,P,Personalization
+38,38187,MCUM2, More Tonka (20ml),Personalization ,P,Personalization
+39,38189,MSVL, More Vanilla (20ml),Personalization ,P,Personalization
+40,38192,SLTC, Salted Caramel (Cookie),Personalization ,P,Personalization
+41,38198,BORG, Orange Cake,Personalization ,P,Personalization
+42,38231,SLMT, With Tonic (w/o milk),Personalization ,P,Personalization
+43,38245,MSMT, More Mint,Personalization ,P,Personalization
+44,38250,SLSMT, With Tonic Zero (w/o milk),Personalization ,P,Personalization
+45,38282,BBAN, Banana Cake,Personalization ,P,Personalization
+46,38289,FSP1, With Tonic (Fresh Soda),Personalization ,P,Personalization
+47,38300,LTSC, Lactose free (Drip Coffee),Personalization ,P,Personalization
+48,38333,SLSBG, With tonic Zero Sugar,Personalization ,P,Personalization
+49,38436,2WMK, With Milk (double espresso/ Cold Brew),Personalization ,P,Personalization
+50,38734,MCUM1, More Tonka (20ml),Personalization ,P,Personalization
+51,39061,PCM, With Coffee (Dirty Chai),Personalization ,P,Personalization
+52,40189,CMX10W, Chemex 2 Cups,Personalization ,P,Personalization
+53,40752,FORG, Gift Bag,Personalization ,P,Personalization
+54,55637,6CIG,Masala chai and ginger latte (iced),Cold - Flavored ,B,Coffee drinks & milkshakes
+55,55638,2SC,Salted caramel latte (iced),Cold - Flavored ,B,Coffee drinks & milkshakes
+56,55639,1IC,Vanilla (iced),Cold - Flavored ,B,Coffee drinks & milkshakes
+57,55641,9IMT,Green tea and strawberry latte (iced),Cold - Flavored ,B,Coffee drinks & milkshakes
+58,55642,5CM,Chocolate and mint latte (iced),Cold - Flavored ,B,Coffee drinks & milkshakes
+59,55647,8MIT,Green tea and tonka latte (iced),Cold - Flavored ,B,Coffee drinks & milkshakes
+60,55654,2CIL,Tonka latte (iced),Cold - Flavored ,B,Coffee drinks & milkshakes
+61,55664,3BG,Ginger,Cold - Flavored ,B,Coffee drinks & milkshakes
+62,55683,7IC,Green tea and mint latte (iced),Cold - Flavored ,B,Coffee drinks & milkshakes
+63,69234,9COOK9,Gelato Frappé Mocha,Sweets ,F,Foods
+64,69236,8BOLO8,Cake,Sweets ,F,Foods
+65,69240,BRIG10, Brigadeiro,Sweets ,F,Foods
+66,69242,BRO13, Brownie,Sweets ,F,Foods
+67,70375,COOKP,Cookies,Sweets ,F,Foods
+68,73489,FINC,Cake,Sweets ,F,Foods
+69,74162,BTKAPP,Brigadeiro,Sweets ,F,Foods
+70,78141,SHCH,Chocolate milkshake,Milkshakes,B,Coffee drinks & milkshakes
+71,78142,SHCO,Coffee milkshake,Milkshakes,B,Coffee drinks & milkshakes
+72,78143,SHMO,Mocha milkshake,Milkshakes,B,Coffee drinks & milkshakes
+73,78148,SHCI,Masala chai milkshake,Milkshakes,B,Coffee drinks & milkshakes
+74,78155,SHMA,Green tea milkshake,Milkshakes,B,Coffee drinks & milkshakes
+75,81578,AFMC,Mocha affogato,Affogatos ,D,Desserts
+76,81579,AFCF,Coffee affogato,Affogatos ,D,Desserts
+77,81594,AFCA,Masala chai affogato,Affogatos ,D,Desserts
+78,81629,AFMT,Green tea affogato,Affogatos ,D,Desserts
+79,81892,QQ2,Grilled cheese sandwich,Sandwiches ,F,Foods
+80,81893,BR3,Grilled ham and cheese sandwich with tomato,Sandwiches ,F,Foods
+81,81894,MQ1,Grielled ham and cheese sandwich,Sandwiches ,F,Foods
+82,82253,WCRY3, Sparkling Water,Other beverages ,A,Refreshing drinks
+83,82255,WATER, Still Mineral Water,Other beverages ,A,Refreshing drinks
+84,82464,JUI33, Red Juice,Other beverages ,A,Refreshing drinks
+85,82465,JUI32, Green Juice,Other beverages ,A,Refreshing drinks
+86,82478,JUI31, Suco de Laranja,Other beverages ,A,Refreshing drinks
+87,82693,NUOAT,Oatmilk,Other beverages ,A,Refreshing drinks
+88,83349,ACX1, Still Mineral Water,Other beverages ,A,Refreshing drinks
+89,84458,C4TWPDQ11,Coffee latte + cheese bread,Combos ,K,Promoted sales
+90,84460,C3MCBLIM,Mocha latte + lemon cake,Combos ,K,Promoted sales
+91,84462,C2SCSLTC,Salted caramel latte (iced) + salted caramel cookie,Combos ,K,Promoted sales
+92,84463,C1PBBRIG10,Double espresso + brigadeiro,Combos ,K,Promoted sales
+93,84468,C2PM2FOOD2, Americano + Croissant,Combos ,K,Promoted sales
+94,84471,C2PMBRO13, Americano + Brownie,Combos ,K,Promoted sales
+95,84475,C3BG2FOOD2,Coffee with ginger flavor (iced) + croissant,Combos ,K,Promoted sales
+96,84479,C3MCCKTR,Mocha latte + traditional cookie,Combos ,K,Promoted sales
+97,84492,C5ILPDQ11,Iced latte + cheese bread,Combos ,K,Promoted sales
+98,84507,C4MILCKMC,Green tea and mint latte (iced) + macadamia nuts cookie,Combos ,K,Promoted sales
+99,84520,C1FCCKTR,Caramel latte + tradicional cookie,Combos ,K,Promoted sales
+100,84531,C5ILBRIG10,Coffee latte (iced) + brigadeiro,Combos ,K,Promoted sales
+101,84536,C6ICBBRO13,Iced coffee + brownie,Combos ,K,Promoted sales
+102,84602,C5CM3FOOD3,Chocolate and mint latte (iced) + pain au chocolat,Combos ,K,Promoted sales
+103,84627,C1IC3FOOD3,Vanilla latte (iced) + pain au chocolat,Combos ,K,Promoted sales
+104,84732,C5MCCKMC,Green tea latte (iced) + macadamia nuts cookie,Combos ,K,Promoted sales
+105,84873,C1ICCKTR,Vanilla latte (iced) + tradicional cookie,Combos ,K,Promoted sales
+106,84987,ICEDBRO,Vanilla latte (iced) + brownie,Combos ,K,Promoted sales
+107,85967,2FOOD2,Croissant,Bakery Products ,F,Foods
+108,85970,PDQ11,Cheese bread,Bakery Products ,F,Foods
+109,86262,BRIOP,Brioches,Bakery Products ,F,Foods
+110,86279,3FOOD3,Pain au Chocolat,Bakery Products ,F,Foods
+111,89534,FSOD2,Pink lemonade,Italian Soda ,A,Refreshing drinks
+112,89537,FSOD1,Lemon,Italian Soda ,A,Refreshing drinks
+113,89540,FSOD5,Strawberry,Italian Soda ,A,Refreshing drinks
+114,89736,FSOD4,Passion fruit,Italian Soda ,A,Refreshing drinks
+115,89737,3CBBE,Coffee beans 250g special edition 1,Coffee Line ,S,Boutique
+116,89738,1CBWB,Coffee beans 250g special edition 2,Coffee Line ,S,Boutique
+117,89743,2CBKE,Coffee beans 250g special edition 3,Coffee Line ,S,Boutique
+118,89771,1CBW2,Ground coffee beans sachés edition 1,Coffee Line ,S,Boutique
+119,89772,4CB1,Coffee beans 1 kg special edition 1,Coffee Line ,S,Boutique
+120,89862,2CBWB,Ground coffee beans sachés edition 2,Coffee Line ,S,Boutique
+121,89878,3CBWB,Ground coffee beans sachés edition 3,Coffee Line ,S,Boutique
+122,89995,5MUG,mug,Casual Line ,S,Boutique
+123,89997,1DRR,dripper,Casual Line ,S,Boutique
+124,89999,2PF,paper filter,Casual Line ,S,Boutique
+125,90000,4TBS, Tumbler (250ml),Casual Line ,S,Boutique
+126,90002,3TBB, Tumbler (400ml),Casual Line ,S,Boutique
+127,90003,1TB,Bags,Casual Line ,S,Boutique
+128,90005,UMBRE, Umbrella,Casual Line ,S,Boutique
+129,90157,ICEAFF,Extra ice cream,Ice Cream ,D,Desserts
+130,92603,CKICE,Cake (hot) with ice cream,Sorvetes com brownie ,D,Desserts
+131,92604,BRICE,Brownie (hot) with ice cream,Sorvetes com brownie ,D,Desserts
+132,92802,MATCHL,Green tea can,Tea Line ,S,Boutique
+133,92811,CHSTCKAPP,Christimas cookies,Chocolates,F,Foods
+134,92815,CH4G,Chocolate 50g,Chocolates,F,Foods
+135,92825,CH8G,Chocolate 10,Chocolates,F,Foods
+136,92994,GRA30,Granola,Chocolates,F,Foods
+137,93076,B1PB,Double espresso (discount sale),Black Friday ,K,Promoted sales
+138,93103,B2AM,Americano (discount sale),Black Friday ,K,Promoted sales
+139,93104,B4UC,Chocolate latte (discount sale),Black Friday ,K,Promoted sales
+140,93106,B7IC,Green tea and mint latte (iced)(discount sale),Black Friday ,K,Promoted sales
+141,93108,B1ICHAI,Masala chai and ginger latte (iced)(discount sale),Black Friday ,K,Promoted sales
+142,93160,DRKSD1,Lemon soda with edible charcoal,Halloween ,K,Promoted sales
+143,93204,PASCOA4,Mocha milkshake,Páscoa ,K,Promoted sales
+144,93205,PASCOA3,Chocolate latte,Páscoa ,K,Promoted sales
+145,93206,PASCOA2,Mocha latte,Páscoa ,K,Promoted sales
+146,93223,PASCOA1,Chocolate and mint latte (iced),Páscoa ,K,Promoted sales
+147,93226,PASCOA5,Chocolate milkshake,Páscoa ,K,Promoted sales
+148,93267,MWEEK6,Green tea and mint latte (iced),Green Tea Week ,K,Promoted sales
+149,93268,MWEEK4,Green tea latte (iced),Green Tea Week ,K,Promoted sales
+150,93269,MWEEK5,Green tea and vanilla latte,Green Tea Week ,K,Promoted sales
+151,93279,MWEEK7,Green tea milkshake,Green Tea Week ,K,Promoted sales
+152,93319,MWEEK3,Green tea latte (discount sale),Coffee Week ,K,Promoted sales
+153,93325,BIRTH,Vanilla latte (discount discount sale),Birthday  ,K,Promoted sales
+154,93371,BIRTH5,Double espresso (discount sale),Birthday  ,K,Promoted sales
+155,93376,BIRTH1,Iced coffe (discount sale),Birthday  ,K,Promoted sales
+156,93382,BIRTH4,Green tea latte (discount sale),Birthday  ,K,Promoted sales
