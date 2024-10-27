@@ -188,3 +188,5 @@ FOREIGN KEY
     (FK_PRODUCT)
 REFERENCES
     dim_produto(PK_PRODUCT);
+
+select * from dim_produto order by pk_product;
